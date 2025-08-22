@@ -8,15 +8,15 @@ Structure
 |- evasion   -> notes about evasion.  
 |- injection -> injection methods.  
 |- utils -> common code like NTAPIA defs. 
-|- defense.  -> defense against malware. 
+|- defense.  -> defense against malware.   
 
 **Web hacking**.     
 |- vulns -> common web vulnerabilitys.  
-|- enumeration - web app enumeration. 
+|- enumeration - web app enumeration.    
 |- tools  - tools(cheetsheets).  
 
-**Active Directory**. 
-|- explained.   
-|- attacks.   
-|- protocols.   
+**Active Directory**.   
+|- explained.     
+|- attacks.     
+|- protocols.     
 
