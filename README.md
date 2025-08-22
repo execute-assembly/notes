@@ -4,19 +4,19 @@ notes for cybersecurity
 Structure
 
 
-**Maldev**. 
+**Maldev**.    
 |- evasion   -> notes about evasion.  
 |- injection -> injection methods.  
 |- utils -> common code like NTAPIA defs. 
 |- defense.  -> defense against malware. 
 
-**Web hacking**.  
+**Web hacking**.     
 |- vulns -> common web vulnerabilitys.  
 |- enumeration - web app enumeration. 
 |- tools  - tools(cheetsheets).  
 
 **Active Directory**. 
-|- explained. 
-|- attacks. 
-|- protocols. 
+|- explained.   
+|- attacks.   
+|- protocols.   
 
