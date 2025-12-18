@@ -1,4 +1,5 @@
-#what is it?
+# what is it?
+
 Cross site scripting is an extremely common web vulnerability that allows an attacker to inject JavaScript into websites that will run under the context of the users browser, its effects can range from not too devestating all the way upto full webapp compromise if chained with something else some of its effects are
 
 - defacement
