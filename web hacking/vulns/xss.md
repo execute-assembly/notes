@@ -1,4 +1,6 @@
 **What is it?**
+
+
 cross site scripting is a web based vulnerability that allows an attacker to inject javascript into page or multiple pages
 this can lead to impacts ranging from
 
