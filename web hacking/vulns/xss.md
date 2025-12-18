@@ -14,7 +14,7 @@ XSS arises out the same issue that starts a lot of vulnerabilities, Trusting use
 
 An example of it could be when a website lets you enter a name for registration then on the dashboard types back
 
-“Hello <name>”, if user input is trusted and there’s no sanatising, validation or encoding done when it’s reflected an attacker can make their name
+“Hello [name]”, if user input is trusted and there’s no sanatising, validation or encoding done when it’s reflected an attacker can make their name
 
 <script>alert(“hacked”)</script>
 
